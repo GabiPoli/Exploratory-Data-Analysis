@@ -1,5 +1,5 @@
 
-Election 2016 - This Repository contains the project related to data collecting, cleaning, visualization and analysis
+**Election 2016 - This Repository contains the project related to data collecting, cleaning, visualization and analysis**
 
 In this project I will analyze the results of political polls and answer some questions:
 
